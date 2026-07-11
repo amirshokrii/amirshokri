@@ -1,81 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=260&section=header&text=AMIR%20SHOKRI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20crafting%20clean%20frontend%20%26%20backend%20experiences&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:0f0c29&height=280&section=header&text=AMIR%20SHOKRI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20the%20web%2C%20one%20line%20of%20code%20at%20a%20time&descAlignY=52&descSize=19&descColor=e0d9ff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=B794F6&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Turning+ideas+into+real+products;%F0%9F%92%BB+Frontend+%2B+Backend+%2B+Everything+in+between;%E2%9A%A1+Learning+fast%2C+shipping+faster;%F0%9F%94%A5+Welcome+to+my+world" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Learning+in+public%2C+one+commit+at+a+time;HTML+%2B+CSS+%2B+JavaScript+%E2%86%92+real+projects;New+here%2C+but+not+for+long;Welcome+to+my+corner+of+GitHub" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 </div>
 
 <br>
 
-## &nbsp;🚀&nbsp; About Me
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## &nbsp;⚡ About Me
 
 ```js
 const amir = {
-  role: "Web Developer",
-  focus: ["Frontend", "Backend"],
-  stack: ["HTML", "CSS", "JavaScript"],
-  status: "Just started my GitHub journey 🌱",
-  mindset: "Build. Break. Learn. Repeat."
+  role: "Full-Stack Web Developer",
+  location: "🌍 Earth, probably at my keyboard",
+  currentFocus: ["Frontend", "Backend", "Clean Architecture"],
+  philosophy: "Ship it, then make it better",
+  funFact: "My code compiles on the first try... eventually 😅"
 };
 ```
 
-I'm at the very beginning of my journey on GitHub — and I'm here to actually **show up**. Every repo, every commit, every messy first draft is part of the process. No shortcuts, just consistent progress.
+- 🔭 Building projects that solve real problems
+- 🌱 Constantly leveling up — new tools, new frameworks, new challenges
+- 🤝 Open to collaborating on interesting web projects
+- ⚡ Believer in clean code, fast performance, and good UX
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amirshokrii&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B794F6&icon_color=B794F6&text_color=e0d9ff" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 <br>
 
 <div align="center">
 
-## &nbsp;🛠️&nbsp; Tech Stack
+## &nbsp;🛠️ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,figma,vscode,linux,vercel&theme=dark&perline=7" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 <br>
 
 <div align="center">
 
-## &nbsp;📊&nbsp; GitHub Stats
+## &nbsp;📊 The Numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirshokrii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA&text_color=cbd5e1" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&text_color=cbd5e1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=B794F6&text_color=e0d9ff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirshokrii&theme=radical&hide_border=true&background=00000000&ring=B794F6&fire=B794F6&currStreakLabel=e0d9ff" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirshokrii&theme=tokyonight&hide_border=true&background=0d1117&ring=60A5FA&fire=60A5FA&currStreakLabel=cbd5e1"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirshokrii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirshokrii&theme=react-dark&hide_border=true&bg_color=00000000&color=B794F6&line=B794F6&point=ffffff" width="100%"/>
 
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 <br>
 
 <div align="center">
 
-## &nbsp;📫&nbsp; Let's Connect
+## &nbsp;🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=amirshokrii&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+
+<br>
+
+<div align="center">
+
+## &nbsp;📈 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirshokrii/amirshokrii/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/amirshokrii/amirshokrii/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<sub>⚙️ activates automatically once the snake GitHub Action is added to this repo</sub>
+
+</div>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+
+<br>
+
+<div align="center">
+
+## &nbsp;📫 Reach Me
 
 <a href="https://t.me/PvMrAmiR">
 <img src="https://img.shields.io/badge/Telegram-@PvMrAmiR-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -89,12 +122,12 @@ I'm at the very beginning of my journey on GitHub — and I'm here to actually *
 
 <br><br>
 
-<i>"Every expert was once a beginner. This is where my story starts."</i>
+<i>"Code is poetry. Bugs are just plot twists."</i>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirshokrii&color=60A5FA&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=amirshokrii&color=B794F6&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4A00E0,100:8E2DE2&height=160&section=footer" width="100%"/>
 
 </div>
