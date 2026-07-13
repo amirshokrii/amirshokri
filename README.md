@@ -117,17 +117,19 @@ I'm open to new front-end opportunities where I can keep learning while contribu
 
 <!-- ================= GITHUB STATISTICS ================= -->
 ## 📊 GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirshokrii&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E27&title_color=38BDF8&icon_color=22D3EE&text_color=cbd5e1" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com?user=amirshokrii&theme=dark&hide_border=true&background=0A0E27&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub Streak Stats" width="49%" />
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amirshokrii&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&layout=compact&theme=dark&hide_border=true&bg_color=0A0E27&title_color=38BDF8&text_color=cbd5e1" alt="Top Languages" width="49%" />
-
-</div>
+<img width="390" src="https://streak-stats.demolab.com?user=amirshokrii&theme=tokyonight&hide_border=true" />
 
 <br/>
+
+<img
+height="90"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirshokrii&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+/>
+</div>
 
 
 <!-- ================= CURRENTLY LEARNING ================= -->
