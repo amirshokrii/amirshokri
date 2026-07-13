@@ -1,6 +1,6 @@
 <!--
   ============================================================
-  Amer — GitHub Profile README
+  Amirhossein Shokri — GitHub Profile README
   ------------------------------------------------------------
   HOW TO USE:
   1. Replace every instance of "YOUR_USERNAME" with your actual
@@ -22,10 +22,13 @@
 
 <!-- ================= HEADER BANNER ================= -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amer&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Front-End%20Developer&descAlign=50&descAlignY=58&descSize=22&animation=fadeIn" alt="Amer — Front-End Developer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:2b1b52,70:4c2a8a,100:24243e&height=230&section=header&text=Amirhossein%20Shokri&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=34&desc=Front-End%20Developer&descAlign=50&descAlignY=50&descSize=20&animation=fadeIn&stroke=A78BFA&strokeWidth=1" alt="Amirhossein Shokri — Front-End Developer banner" />
 </a>
 
-<em>「 Building modern web experiences with React &amp; Next.js 」</em>
+<!-- ================= ANIMATED SUBTITLE ================= -->
+<a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+experiences+with+React+%26+Next.js" alt="Subtitle" />
+</a>
 
 <br/>
 
@@ -41,7 +44,11 @@
 <!-- ================= ABOUT ME ================= -->
 ## 👋 About Me
 
-I'm a junior Front-End Developer with a genuine passion for building clean, responsive, and user-friendly interfaces. I care about writing readable, maintainable code and paying close attention to the small details that make an interface feel polished. I'm currently deepening my skills in React and Next.js by building real-world projects, and I make it a habit to learn something new about the front-end ecosystem every day.
+I'm a junior Front-End Developer with a genuine passion for building clean, responsive, and user-friendly interfaces. I care about writing readable, maintainable code and paying close attention to the small details that make an interface feel polished — solid spacing, smooth interactions, and layouts that hold up on any screen. I'm currently deepening my skills in React and Next.js by building real-world projects, and I make it a habit to learn something new about the front-end ecosystem every day.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=3&section=header" width="60%" alt="divider" />
+</div>
 
 <br/>
 
@@ -160,4 +167,8 @@ I'm a junior Front-End Developer with a genuine passion for building clean, resp
 <br/>
 
 <!-- ================= FOOTER ================= -->
+<div align="center">
+<sub>Thanks for stopping by — always open to feedback and collaboration.</sub>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer wave" />
