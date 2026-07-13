@@ -12,7 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Building+modern+web+experiences+%E2%9A%A1;React+%26+Next.js;JavaScript+%26+TypeScript;Clean+Code+%2B+Great+UI;Always+Learning" alt="Typing SVG" />
 </a>
 <div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header"
+style="width:80%;"
+/>
 </div>
 
 </div>
