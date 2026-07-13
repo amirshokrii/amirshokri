@@ -26,9 +26,10 @@ I'm a Front-End Developer with a genuine passion for building clean, responsive,
 
 I'm open to new front-end opportunities where I can keep learning while contributing to real products.
 
-<div align="center">
-<img width="120%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<div align="left">
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
 </div>
+</br>
 
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
@@ -48,11 +49,11 @@ I'm open to new front-end opportunities where I can keep learning while contribu
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
+<img width="50%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
 </div>
+
+</br>
 
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -111,12 +112,8 @@ I'm open to new front-end opportunities where I can keep learning while contribu
     </td>
   </tr>
 </table>
-
 <br/>
 
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
-</div>
 
 <!-- ================= GITHUB STATISTICS ================= -->
 ## 📊 GitHub Statistics
@@ -132,9 +129,6 @@ I'm open to new front-end opportunities where I can keep learning while contribu
 
 <br/>
 
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
-</div>
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 ## 🎯 Currently Learning
@@ -144,10 +138,8 @@ I'm open to new front-end opportunities where I can keep learning while contribu
 - Accessibility (a11y)
 - Modern Front-End Architecture
 
-<br/>
-
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
+<div align="left">
+<img width="30%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
 </div>
 
 <!-- ================= CONTACT ================= -->
