@@ -15,6 +15,11 @@
      (Shields.io, Skill Icons, Capsule Render, GitHub Readme
      Stats/Streak). No local assets required — it will render
      immediately once the username is swapped in.
+  5. Honesty note: the 4 project cards are placeholders meant to
+     show the *layout* you should use. Only keep as many cards as
+     you have real, deployed projects for — delete the rest rather
+     than shipping empty placeholders. Two real projects beat four
+     fake-looking ones.
   ============================================================
 -->
 
@@ -37,6 +42,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=50&lines=Front-End+Developer;React+%26+Next.js;JavaScript+%26+TypeScript;Always+Learning" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- ================= OPEN TO WORK ================= -->
+<img src="https://img.shields.io/badge/Open_to-Junior%20Front--End%20Roles-A78BFA?style=flat-square&labelColor=1F2937" alt="Open to junior front-end opportunities" />
+
 </div>
 
 <br/>
@@ -45,6 +55,8 @@
 ## 👋 About Me
 
 I'm a junior Front-End Developer with a genuine passion for building clean, responsive, and user-friendly interfaces. I care about writing readable, maintainable code and paying close attention to the small details that make an interface feel polished — solid spacing, smooth interactions, and layouts that hold up on any screen. I'm currently deepening my skills in React and Next.js by building real-world projects, and I make it a habit to learn something new about the front-end ecosystem every day.
+
+I'm actively looking for my first junior front-end or internship opportunity, where I can keep learning while contributing to real products.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=3&section=header" width="60%" alt="divider" />
@@ -81,7 +93,8 @@ I'm a junior Front-End Developer with a genuine passion for building clean, resp
     <td width="50%" valign="top">
       <img src="https://placehold.co/600x340/0f0c29/A78BFA?text=Project+Screenshot" width="100%" alt="Project One screenshot" /><br/><br/>
       <b>Task Flow — Kanban Board</b><br/>
-      A drag-and-drop task management board with boards, lists, and cards, built to practice component architecture and local state management.<br/><br/>
+      A drag-and-drop task management board with boards, lists, and cards.<br/>
+      <sub><b>Key focus:</b> component architecture, local state management</sub><br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br/><br/>
@@ -92,7 +105,8 @@ I'm a junior Front-End Developer with a genuine passion for building clean, resp
     <td width="50%" valign="top">
       <img src="https://placehold.co/600x340/0f0c29/A78BFA?text=Project+Screenshot" width="100%" alt="Project Two screenshot" /><br/><br/>
       <b>Weatherly — Weather Dashboard</b><br/>
-      A responsive weather dashboard that consumes a public API, with search, saved locations, and a clean data-first UI.<br/><br/>
+      A responsive weather dashboard that consumes a public API, with search and saved locations.<br/>
+      <sub><b>Key focus:</b> API integration, async data handling</sub><br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br/><br/>
@@ -105,7 +119,8 @@ I'm a junior Front-End Developer with a genuine passion for building clean, resp
     <td width="50%" valign="top">
       <img src="https://placehold.co/600x340/0f0c29/A78BFA?text=Project+Screenshot" width="100%" alt="Project Three screenshot" /><br/><br/>
       <b>ShopLite — E-Commerce UI</b><br/>
-      A front-end e-commerce storefront with product filtering, a cart, and checkout flow, focused on responsive layout and accessibility.<br/><br/>
+      A front-end storefront with product filtering, a cart, and checkout flow.<br/>
+      <sub><b>Key focus:</b> responsive layout, accessibility (a11y)</sub><br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><br/>
@@ -116,7 +131,8 @@ I'm a junior Front-End Developer with a genuine passion for building clean, resp
     <td width="50%" valign="top">
       <img src="https://placehold.co/600x340/0f0c29/A78BFA?text=Project+Screenshot" width="100%" alt="Project Four screenshot" /><br/><br/>
       <b>DevNotes — Markdown Notes App</b><br/>
-      A minimal notes app with live Markdown preview and local persistence, built to practice TypeScript and component state design.<br/><br/>
+      A minimal notes app with live Markdown preview and local persistence.<br/>
+      <sub><b>Key focus:</b> TypeScript types, component state design</sub><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br/><br/>
